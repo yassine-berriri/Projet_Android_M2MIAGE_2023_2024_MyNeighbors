@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tp4</string>
+    <string name="name">name\n</string>
+    <string name="save">Save</string>
+    <string name="profile_image_desc">Picture\n</string>
+    <string name="upload_image_desc">download image\n</string>
+    <string name="image">Picture\n</string>
+    <string name="phoneNumber">Phone\n</string>
+    <string name="website">webSite\n</string>
+    <string name="address">Address\n</string>
+    <string name="about_me">About me\n</string>
+    <string name="titleListVoisin">List of neighbors\n</string>
+    <string name="titleAddNeighbor">New neighbor\n</string>
+</resources>

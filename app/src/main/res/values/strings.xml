@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">tp4</string>
+    <string name="name">nom\n</string>
+    <string name="save">Enregistrer</string>
+    <string name="profile_image_desc">Image\n</string>
+    <string name="upload_image_desc">télecharger image\n</string>
+    <string name="image">Image\n</string>
+    <string name="phoneNumber">Téléphone\n</string>
+    <string name="website">webSite\n</string>
+    <string name="address">Adresse\n</string>
+    <string name="about_me">A propos de moi\n</string>
+    <string name="titleListVoisin">Liste des voisins\n</string>
+    <string name="titleAddNeighbor">Nouveau voisin\n</string>
+</resources>
